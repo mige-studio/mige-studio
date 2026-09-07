@@ -1,16 +1,18 @@
-## Hi there 👋
+# 米格咨询｜Mige Studio
 
-<!--
-**mige-studio/mige-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+从真实业务问题出发，把方法、工具和实践做成可用产品。
 
-Here are some ideas to get you started:
+我长期参与企业经营、组织协作与产品实践，也把过程中沉淀下来的工具和方法逐步开源。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **米格咨询**：围绕真实业务问题，推进方法梳理、产品设计与落地实践。
+- **啊咪啦童装**：持续经营中的童装品牌，也是许多业务工具的真实实践场景。
+
+## 开源项目
+
+### [抖音精读](https://github.com/mige-studio/douyin-digest)
+
+在网页版抖音旁阅读逐字稿，区分说话人、跟随播放、搜索内容，并保存带时间点的笔记。
+
+![抖音精读：说话人区分与逐字稿](https://raw.githubusercontent.com/mige-studio/douyin-digest/main/assets/douyin-digest-speaker-transcript.png)
+
+当前持续完善中，欢迎试用、反馈和交流。
